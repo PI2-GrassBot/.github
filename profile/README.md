@@ -4,7 +4,7 @@
 O **GrassBot** é um cortador de grama autônomo inteligente projetado para manter gramados sempre bem cuidados sem intervenção humana. Ele utiliza algoritmos para navegação, detecção de obstáculos e otimização de rota, proporcionando um corte eficiente e preciso.
 
 
-![GrassBot](https://raw.githubusercontent.com/PI2-GrassBot/Docs/refs/heads/main/assets/simulation.gif)
+![GrassBot](https://raw.githubusercontent.com/PI2-GrassBot/Docs/f6502e73a82b199e4432b45a43b3f6cfd3267995/assets/v2.gif)
 
 ---
 
